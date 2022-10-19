@@ -1,0 +1,23 @@
+*{
+    margin-left: 30px;
+}
+label{
+    margin-left: 20px;
+}
+.col img{
+    width: 300px;
+    height: 260px;
+}
+.form-check img  {
+    width: 100px;
+    height: 160px;
+}
+
+select{
+    height: 35px;
+}
+#choices{
+    margin: 30px 20px;
+    width: 100%;
+    
+}
